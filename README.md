@@ -2,20 +2,21 @@
 mans darbs
 <html>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-<title> Mana WEB lapa </title>
-
-Mana tiešā runa
-
-<br/>
-<p>Es, Uldis Pabērzs,  saku: "Jani!"</p>
-
-
-<h3>Visvienkāršākais Web dokuments </h3>
-<img src="snapshot1.png">
-
-<h4>Šī dokumenta kods</h4>
+<head>
+        <title>Mana Web lapa</title>
+</head>
+<h1>Virsvienkāršākais  web dokuments</h1>
+        <p>Es, Uldis Pabērzs, saku: <br />
+                "Jāni! Mācies HTML"</p>
+<hr />
+<h2>Visvienkāršākais dokumenimta kods</h2>
+<img src="snapshot1.png" />
+</hr />
+<h4>Dokumenta teksts</h2>
+<img src="shot4.png" width="600" />
+<hr />
+<p>Šis dokumenta kods</p>
 <pre>
-&lt;html&gt;&lt;/html&gt;
+ &lt;html&gt;&lt;/html&gt;
 </pre>
 
-</html>
