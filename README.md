@@ -7,7 +7,7 @@ mans darbs
 Mana tiešā runa
 
 <br/>
-<p>Es saku: "Jani!"</p>
+<p>Es, Uldis Pabērzs,  saku: "Jani!"</p>
 
 
 <h3>Visvienkāršākais Web dokuments </h3>
